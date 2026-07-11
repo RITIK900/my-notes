@@ -29,13 +29,13 @@ The notes are written in **Markdown (`.md`)** format so they are easy to read, s
 - Udemy Course by **Abhishek CSEPracticals**
 
 **Reference Book**
-- *The Linux Programming Interface* by Michael Kerrisk
+- *The Linux Programming Interface* by Michael Kerrisk (https://www.man7.org/)
 
 ### Computer Networks (CN)
 - Gate Smashers
 
 ### Build Systems
-- Makefiles
+- Make
 - CMake
 
 ---
@@ -49,8 +49,6 @@ The notes are written in **Markdown (`.md`)** format so they are easy to read, s
 ├── Operating-System/
 ├── Computer-Networks/
 ├── Linux-Programming/
-├── Makefiles/
-├── CMake/
 ├── References/
 └── README.md
 ```
