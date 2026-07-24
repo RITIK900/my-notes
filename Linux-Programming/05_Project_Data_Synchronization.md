@@ -51,7 +51,7 @@ graph TD
 ## Data Structure for the Routing Table
 
 * You are free to choose any data structure to represent the routing table — e.g., a simple **linked list** of routing table entries.
-* Each **row** in the routing table is called a **routing table entry**. A linked list of these entries represents the routing table.
+* Each **row** in the routing table is called a **routing table entry**. A linked list of these entries represents the routing table.       
 
 ### Operations the Admin Can Perform
 
